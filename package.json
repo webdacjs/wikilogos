@@ -1,0 +1,26 @@
+{
+  "name": "wiki-logo",
+  "version": "1.0.0",
+  "description": "Simple utility to get entities and institutions logos from wikipedia content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdacjs/wikilogos.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "logos"
+  ],
+  "author": "Juan Convers",
+  "license": "MIT",
+  "dependencies": {
+    "get-urls": "9.2.0",
+    "simple-fetch-cache": "1.4.1"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
